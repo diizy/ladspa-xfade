@@ -145,7 +145,7 @@ _init() {
   if (g_psStereoDescriptor) {
     
     g_psStereoDescriptor->UniqueID
-      = 998;
+      = 5061;
     g_psStereoDescriptor->Label
       = strdup("crossfader");
     g_psStereoDescriptor->Properties
